@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/cbeiraod/tutorial-electron-app/issues"
   },
-  "homepage": "https://github.com/cbeiraod/tutorial-electron-app#readme"
+  "homepage": "https://github.com/cbeiraod/tutorial-electron-app#readme",
+  "private": true,
+  "overrides": {
+    "minimatch": "^3.0.5",
+    "got": "^11.8.5"
+  },
+  "devDependencies": {
+    "electron": "^21.2.0"
+  }
 }
