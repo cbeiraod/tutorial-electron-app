@@ -1,0 +1,19 @@
+{
+  "name": "tutorial-electron-app",
+  "version": "1.0.0",
+  "description": "Tutorial electron app, following https://www.electronjs.org/docs/latest/tutorial/tutorial-prerequisites (28/10/2022)",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbeiraod/tutorial-electron-app.git"
+  },
+  "author": "Cristovao da Cruz e Silva",
+  "license": "Zlib",
+  "bugs": {
+    "url": "https://github.com/cbeiraod/tutorial-electron-app/issues"
+  },
+  "homepage": "https://github.com/cbeiraod/tutorial-electron-app#readme"
+}
